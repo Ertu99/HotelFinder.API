@@ -1,0 +1,17 @@
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.deps.json
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.pdb
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.DataAccess.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Entities.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.DataAccess.pdb
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.AssemblyReference.cache
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.AssemblyInfoInputs.cache
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.AssemblyInfo.cs
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.CoreCompileInputs.cache
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.CopyComplete
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/refint/HotelFinder.Business.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.pdb
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/ref/HotelFinder.Business.dll

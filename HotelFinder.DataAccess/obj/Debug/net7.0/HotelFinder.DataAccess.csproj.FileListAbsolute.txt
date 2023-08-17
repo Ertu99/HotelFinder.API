@@ -1,0 +1,17 @@
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/bin/Debug/net7.0/HotelFinder.DataAccess.deps.json
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/bin/Debug/net7.0/HotelFinder.DataAccess.runtimeconfig.json
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/bin/Debug/net7.0/HotelFinder.DataAccess.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/bin/Debug/net7.0/HotelFinder.DataAccess.pdb
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/bin/Debug/net7.0/HotelFinder.Entities.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/bin/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.csproj.AssemblyReference.cache
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.AssemblyInfoInputs.cache
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.AssemblyInfo.cs
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.csproj.CopyComplete
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/refint/HotelFinder.DataAccess.dll
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.pdb
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/HotelFinder.DataAccess.genruntimeconfig.cache
+/Users/ertu/Desktop/ASP.NET CORE/HotelFinder/HotelFinder.DataAccess/obj/Debug/net7.0/ref/HotelFinder.DataAccess.dll
